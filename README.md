@@ -1,6 +1,7 @@
 ### cauky👋
+
 <div id="header" align="center">
-  <img src="[https://giphy.com/stickers/cool-cartoon-goose-see1sKEEvFNOzWDmee](https://giphy.com/embed/see1sKEEvFNOzWDmee)" width="329" height="480"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFoaDh2Mzg1OTc4bGZzYjd6MTc5bjg5cTBmYTd0N2J3NHpqbm96NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBCTQOuO2AlZYX3sM/giphy.gif" width="100"/>
 </div>
 <!--
 **584cz/584cz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
