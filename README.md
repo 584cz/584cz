@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### cauky👋
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/cool-cartoon-goose-see1sKEEvFNOzWDmee" width="329" height="480"/>
+</div>
 <!--
 **584cz/584cz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
