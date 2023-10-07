@@ -2,7 +2,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFoaDh2Mzg1OTc4bGZzYjd6MTc5bjg5cTBmYTd0N2J3NHpqbm96NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SdBCTQOuO2AlZYX3sM/giphy.gif"/>
 </div>
-####ČAUKY
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/T5JHTZtWO2OPgUZTpN/giphy.gif" width="50px"/>
+</h1>
 
 <!--
 **584cz/584cz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
