@@ -11,8 +11,6 @@
 </h3>
 <p>cc ja jsem petka a nechapu </p>
 
-### cau
-
 <h3>
 🤪 Co umím(spíš vůbec)?
 </h3>
