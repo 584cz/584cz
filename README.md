@@ -6,14 +6,11 @@
   ČAUKY MŇAUKY
 </h1>
 
-<h3>
-💀 Kdo jsem?
-</h3>
-<p>cc ja jsem petka a nechapu </p>
+### 💀 Kdo jsem?
+cc ja jsem petka a nechapu 
 
-<h3>
-🤪 Co umím(spíš vůbec)?
-</h3>
+### 🤪 Co umím(spíš vůbec)?
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
 </div>
