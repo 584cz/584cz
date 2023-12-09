@@ -15,9 +15,5 @@
   <img height="40" width="40" src="https://cdn.simpleicons.org/html5/pink" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/python/pink" />
 </div>
-..
-</div>
-   <img height="40" width="40" src="https://cdn.simpleicons.org/html5/pink" />
-</div>
-<img height="40" width="40" src="https://cdn.simpleicons.org/python/pink" />
+
 
