@@ -26,6 +26,6 @@
 
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=px0n4nif4xqcac6wmr315dq3q&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=px0n4nif4xqcac6wmr315dq3q&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
