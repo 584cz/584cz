@@ -11,8 +11,13 @@
 🎮 gamer • anime & manga enjoyer • music lover
 
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/pink" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus/pink" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/pink" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/python/pink" />
 </div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+..
 </div>
+   <img height="40" width="40" src="https://cdn.simpleicons.org/html5/pink" />
+</div>
+<img height="40" width="40" src="https://cdn.simpleicons.org/python/pink" />
+
