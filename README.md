@@ -10,8 +10,6 @@
   💀 hi i'm 584, idk what i'm actually doing but we ball
 
   📚 i'm trying to learn c++, python and html
-
-  🎮 gamer • anime & manga enjoyer • music lover
 </pre>
 
 <br>
