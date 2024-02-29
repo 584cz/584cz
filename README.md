@@ -13,17 +13,9 @@
 </pre>
 
 <br>
-
 <div align="center">
   <img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus/pink" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/html5/pink" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/python/pink" />
 </div>
-
 <br>
-
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=px0n4nif4xqcac6wmr315dq3q&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
