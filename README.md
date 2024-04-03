@@ -9,7 +9,7 @@
 <pre align="center">
   💀 hi i'm 584, idk what i'm actually doing but we ball
 
-  📚 i'm trying to learn c++, python and html
+  📚 i'm trying to learn c++, python, html, css and java
 </pre>
 
 <br>
