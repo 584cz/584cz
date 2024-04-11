@@ -10,19 +10,14 @@
  
  ---
  
-<div align ="center">
-  
-![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-[![](https://visitcount.itsvg.in/api?id=584cz&icon=7&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
 <div align="center">
 
   ![Stats](https://github-readme-stats.vercel.app/api?username=584cz&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)<br/>
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=584cz&theme=tokyonight&hide_border=true)<br/>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=584cz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-</div>        
+
+  ---
+
+  [![](https://visitcount.itsvg.in/api?id=584cz&icon=7&color=6)](https://visitcount.itsvg.in)
+  
+</div>   
