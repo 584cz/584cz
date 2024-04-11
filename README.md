@@ -9,13 +9,26 @@
 <pre align="center">
   💀 hi i'm 584, idk what i'm actually doing but we ball
 
-  📚 i'm trying to learn c++, python, html, css and java
+  📚 i'm trying to learn c++ (also python, html, css and java)
 </pre>
 
-<br>
-<div align="center">
-  <img height="40" width="40" src="https://cdn.simpleicons.org/cplusplus/pink" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/html5/pink" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/python/pink" />
-</div>
-<br>
+# 💫 About Me:
+ 💀 hi i'm 584, idk what i'm actually doing but we ball<br><br>  📚 i'm trying to learn c++ (also python, html, css and java)
+
+
+## 🌐 Socials:
+[![discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5u64bZyx) [![twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/584cz) 
+
+# 💻 Tech Stack:
+![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=584cz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=584cz&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=584cz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=584cz&icon=7&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
