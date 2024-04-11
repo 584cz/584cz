@@ -12,6 +12,7 @@
   
   <div align="center">
 
-   [![](https://visitcount.itsvg.in/api?id=584cz&icon=7&color=6)](https://visitcount.itsvg.in)
+   [![](https://visitcount.itsvg.in/api?id=584cz&icon=7&color=6)](https://visitcount.itsvg.in) [![discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5u64bZyx)
+
     
   </div>
